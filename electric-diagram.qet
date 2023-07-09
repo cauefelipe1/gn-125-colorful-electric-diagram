@@ -5,7 +5,7 @@
         <property name="saveddate-us" show="1">2023-07-09</property>
         <property name="savedfilepath" show="1">D:/Projects/GN 125 Motorcycle/electric-diagram.qet</property>
         <property name="saveddate" show="1">7/9/2023</property>
-        <property name="savedtime" show="1">18:35</property>
+        <property name="savedtime" show="1">20:05</property>
     </properties>
     <newdiagrams>
         <border displaycols="true" rows="8" rowsize="80" displayrows="true" colsize="60" cols="17"/>
@@ -345,14 +345,14 @@ DIANTEIRA DIREITA</text>
                 <dynamic_texts/>
                 <texts_groups/>
             </element>
-            <element x="590" y="808" prefix="" uuid="{4bb0d9d5-5afc-40f4-8a93-22d51a7aceae}" type="embed://import/10_electric/20_manufacturers_articles/pinball/williams_em/output/pinball_em_williams_coil.elmt" orientation="3" freezeLabel="false" z="10">
+            <element x="612" y="806" prefix="" uuid="{4bb0d9d5-5afc-40f4-8a93-22d51a7aceae}" type="embed://import/10_electric/20_manufacturers_articles/pinball/williams_em/output/pinball_em_williams_coil.elmt" orientation="3" freezeLabel="false" z="10">
                 <terminals>
                     <terminal x="-16" y="0" orientation="3" id="57"/>
                     <terminal x="16" y="0" orientation="1" id="58"/>
                 </terminals>
                 <inputs/>
                 <dynamic_texts>
-                    <dynamic_elmt_text x="-26" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="-44" uuid="{50f60a52-dd09-46e7-b968-e1fb91118f79}" rotation="90" frame="true" text_width="-1" keep_visual_rotation="true" Halignment="AlignLeft" Valignment="AlignTop">
+                    <dynamic_elmt_text x="-30" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="-20" uuid="{50f60a52-dd09-46e7-b968-e1fb91118f79}" rotation="90" frame="true" text_width="-1" keep_visual_rotation="true" Halignment="AlignLeft" Valignment="AlignTop">
                         <text>BONINA
 CAPTADORA</text>
                     </dynamic_elmt_text>
@@ -431,7 +431,7 @@ CAPTADORA</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element x="504" y="536" prefix="X" uuid="{e4393088-daa4-4b40-8f40-5e4dee187c36}" type="embed://import/10_electric/10_allpole/130_terminals_terminal_strips/borne_2.elmt" orientation="1" freezeLabel="false" z="10">
+            <element x="134" y="510" prefix="X" uuid="{e4393088-daa4-4b40-8f40-5e4dee187c36}" type="embed://import/10_electric/10_allpole/130_terminals_terminal_strips/borne_2.elmt" orientation="1" freezeLabel="false" z="10">
                 <terminals>
                     <terminal x="0" y="-6" orientation="0" id="68"/>
                     <terminal x="6" y="0" orientation="1" id="69"/>
@@ -689,7 +689,7 @@ PARTIDA</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element x="272" y="680" prefix="" uuid="{2029a016-f39e-4010-a1df-20fcf8a43c04}" type="embed://import/vehicles/gn_125/electric_harnesses/simple_connector.elmt" orientation="0" freezeLabel="false" z="10">
+            <element x="272" y="725" prefix="" uuid="{2029a016-f39e-4010-a1df-20fcf8a43c04}" type="embed://import/vehicles/gn_125/electric_harnesses/simple_connector.elmt" orientation="0" freezeLabel="false" z="10">
                 <terminals>
                     <terminal x="0" y="-7" orientation="0" id="104"/>
                     <terminal x="0" y="7" orientation="2" id="105"/>
@@ -749,7 +749,7 @@ PARTIDA</text>
                     <elementInformation name="formula" show="1"></elementInformation>
                 </elementInformations>
                 <dynamic_texts>
-                    <dynamic_elmt_text x="-38" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="20" uuid="{0681b9cf-ed26-41dd-9486-448305680bf5}" rotation="0" frame="true" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop">
+                    <dynamic_elmt_text x="-28" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="22" uuid="{0681b9cf-ed26-41dd-9486-448305680bf5}" rotation="0" frame="true" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop">
                         <text>ALTERNADOR</text>
                     </dynamic_elmt_text>
                 </dynamic_texts>
@@ -769,7 +769,7 @@ PARTIDA</text>
                 <dynamic_texts/>
                 <texts_groups/>
             </element>
-            <element x="742" y="620" prefix="" uuid="{75fee2b0-c842-4512-83e8-c603e9b63eac}" type="embed://import/vehicles/starter_relay.elmt" orientation="0" freezeLabel="false" z="10">
+            <element x="742" y="580" prefix="" uuid="{75fee2b0-c842-4512-83e8-c603e9b63eac}" type="embed://import/vehicles/starter_relay.elmt" orientation="0" freezeLabel="false" z="10">
                 <terminals>
                     <terminal x="-12.4" y="-15.8" orientation="0" id="127"/>
                     <terminal x="24.1" y="-13.1" orientation="1" id="128"/>
@@ -803,7 +803,7 @@ PARTIDA</text>
                 <dynamic_texts/>
                 <texts_groups/>
             </element>
-            <element x="228" y="755" prefix="" uuid="{f3c497b5-77a4-4cf0-a349-564b38f78e48}" type="embed://import/vehicles/gn_125/switches/head_light_switch.elmt" orientation="0" freezeLabel="false" z="10">
+            <element x="228" y="800" prefix="" uuid="{f3c497b5-77a4-4cf0-a349-564b38f78e48}" type="embed://import/vehicles/gn_125/switches/head_light_switch.elmt" orientation="0" freezeLabel="false" z="10">
                 <terminals>
                     <terminal x="-10.525" y="-18.725" orientation="0" id="133"/>
                     <terminal x="8.975" y="-18.725" orientation="0" id="134"/>
@@ -814,13 +814,13 @@ PARTIDA</text>
                     <elementInformation name="formula" show="1"></elementInformation>
                 </elementInformations>
                 <dynamic_texts>
-                    <dynamic_elmt_text x="-24" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="14" uuid="{14162269-a71e-4410-83d5-3051e082105a}" rotation="0" frame="false" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop">
+                    <dynamic_elmt_text x="-12" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="14" uuid="{14162269-a71e-4410-83d5-3051e082105a}" rotation="0" frame="false" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop">
                         <text>FAROL</text>
                     </dynamic_elmt_text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element x="496" y="770" prefix="" uuid="{12ed7bf8-5739-4cc3-a495-7ad40253a569}" type="embed://import/vehicles/horn.elmt" orientation="0" freezeLabel="false" z="10">
+            <element x="118" y="811" prefix="" uuid="{12ed7bf8-5739-4cc3-a495-7ad40253a569}" type="embed://import/vehicles/horn.elmt" orientation="0" freezeLabel="false" z="10">
                 <terminals>
                     <terminal x="-9.04648" y="-18.6429" orientation="0" id="136"/>
                     <terminal x="8.69252" y="-18.6429" orientation="0" id="137"/>
@@ -830,13 +830,13 @@ PARTIDA</text>
                     <elementInformation name="formula" show="1"></elementInformation>
                 </elementInformations>
                 <dynamic_texts>
-                    <dynamic_elmt_text x="-24" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="14" uuid="{e2f4ce0e-bcf1-4239-98db-0ad049c90aff}" rotation="0" frame="true" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop">
+                    <dynamic_elmt_text x="-18" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="14" uuid="{e2f4ce0e-bcf1-4239-98db-0ad049c90aff}" rotation="0" frame="true" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop">
                         <text>BUZINA</text>
                     </dynamic_elmt_text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element x="310" y="750" prefix="" uuid="{040fb47a-c9a2-4cc3-bf22-607f23938858}" type="embed://import/vehicles/gn_125/switches/horn_switch.elmt" orientation="0" freezeLabel="false" z="10">
+            <element x="310" y="795" prefix="" uuid="{040fb47a-c9a2-4cc3-bf22-607f23938858}" type="embed://import/vehicles/gn_125/switches/horn_switch.elmt" orientation="0" freezeLabel="false" z="10">
                 <terminals>
                     <terminal x="-0.60509" y="-15.2793" orientation="0" id="138"/>
                     <terminal x="19.9382" y="-15.2793" orientation="0" id="139"/>
@@ -846,7 +846,7 @@ PARTIDA</text>
                     <elementInformation name="formula" show="1"></elementInformation>
                 </elementInformations>
                 <dynamic_texts>
-                    <dynamic_elmt_text x="-24" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="18" uuid="{af209253-efc1-4253-9718-4188b8736e42}" rotation="0" frame="false" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop">
+                    <dynamic_elmt_text x="-24" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="18" uuid="{af209253-efc1-4253-9718-4188b8736e42}" rotation="0" frame="false" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop">
                         <text>BUZINA</text>
                     </dynamic_elmt_text>
                 </dynamic_texts>
@@ -869,7 +869,7 @@ PARTIDA</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element x="374" y="751" prefix="" uuid="{14878a08-fc1e-482d-964f-5ee9d2059e32}" type="embed://import/vehicles/gn_125/switches/turn_signal_switch.elmt" orientation="0" freezeLabel="false" z="10">
+            <element x="374" y="796" prefix="" uuid="{14878a08-fc1e-482d-964f-5ee9d2059e32}" type="embed://import/vehicles/gn_125/switches/turn_signal_switch.elmt" orientation="0" freezeLabel="false" z="10">
                 <terminals>
                     <terminal x="-8.3254" y="-14.5755" orientation="0" id="142"/>
                     <terminal x="5.85924" y="-14.5755" orientation="0" id="143"/>
@@ -880,7 +880,7 @@ PARTIDA</text>
                     <elementInformation name="formula" show="1"></elementInformation>
                 </elementInformations>
                 <dynamic_texts>
-                    <dynamic_elmt_text x="-20" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="18" uuid="{0e5a5cf4-316a-46f8-bf1f-64763f7bc1cf}" rotation="0" frame="false" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop">
+                    <dynamic_elmt_text x="-20" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="17.5879" uuid="{0e5a5cf4-316a-46f8-bf1f-64763f7bc1cf}" rotation="0" frame="false" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop">
                         <text>SETAS</text>
                     </dynamic_elmt_text>
                 </dynamic_texts>
@@ -902,7 +902,7 @@ PARTIDA</text>
                 <dynamic_texts/>
                 <texts_groups/>
             </element>
-            <element x="344" y="684" prefix="" uuid="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" type="embed://import/vehicles/gn_125/electric_harnesses/seven_way_connector.elmt" orientation="0" freezeLabel="false" z="10">
+            <element x="344" y="729" prefix="" uuid="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" type="embed://import/vehicles/gn_125/electric_harnesses/seven_way_connector.elmt" orientation="0" freezeLabel="false" z="10">
                 <terminals>
                     <terminal x="-46.8537" y="-11.4512" orientation="0" id="151"/>
                     <terminal x="-32.1475" y="-11.4512" orientation="0" id="152"/>
@@ -1072,6 +1072,49 @@ PARTIDA</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
+            <element x="536" y="642" prefix="" uuid="{c38ce191-8f83-44f5-8fb1-654d62e6d67d}" type="embed://import/vehicles/gn_125/electric_harnesses/five_way_connector.elmt" orientation="0" freezeLabel="false" z="10">
+                <terminals>
+                    <terminal x="-36.82" y="-9.419" orientation="0" id="185"/>
+                    <terminal x="-18.415" y="-9.419" orientation="0" id="186"/>
+                    <terminal x="0.085" y="-9.419" orientation="0" id="187"/>
+                    <terminal x="16.975" y="-9.419" orientation="0" id="188"/>
+                    <terminal x="34.875" y="-9.419" orientation="0" id="189"/>
+                    <terminal x="-36.82" y="4.551" orientation="2" id="190"/>
+                    <terminal x="-18.415" y="4.551" orientation="2" id="191"/>
+                    <terminal x="0.085" y="4.551" orientation="2" id="192"/>
+                    <terminal x="16.975" y="4.551" orientation="2" id="193"/>
+                    <terminal x="34.875" y="4.551" orientation="2" id="194"/>
+                </terminals>
+                <inputs/>
+                <elementInformations>
+                    <elementInformation name="formula" show="1"></elementInformation>
+                </elementInformations>
+                <dynamic_texts/>
+                <texts_groups/>
+            </element>
+            <element x="506" y="740" prefix="" uuid="{a25fc28d-b3c0-4e3e-b87f-38916d378654}" type="embed://import/vehicles/gn_125/switches/gear_indicator_switch.elmt" orientation="0" freezeLabel="false" z="10">
+                <terminals>
+                    <terminal x="-23.5547" y="-42.5841" orientation="0" id="195"/>
+                    <terminal x="-5.43788" y="-42.5841" orientation="0" id="196"/>
+                    <terminal x="9.05557" y="-42.5841" orientation="0" id="197"/>
+                    <terminal x="25.3607" y="-42.5841" orientation="0" id="198"/>
+                    <terminal x="42.1834" y="-42.5841" orientation="0" id="199"/>
+                    <terminal x="60.3002" y="-42.5841" orientation="0" id="200"/>
+                    <terminal x="-40.3127" y="42.6876" orientation="2" id="201"/>
+                </terminals>
+                <inputs/>
+                <elementInformations>
+                    <elementInformation name="formula" show="1"></elementInformation>
+                </elementInformations>
+                <dynamic_texts>
+                    <dynamic_elmt_text x="0" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="42" uuid="{8fbb9a04-9202-4f6e-8101-ec36920f8bfd}" rotation="0" frame="true" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop">
+                        <text>INTERRUPTOR
+DO INDICADOR
+DE MARCHAS</text>
+                    </dynamic_elmt_text>
+                </dynamic_texts>
+                <texts_groups/>
+            </element>
             <element x="186" y="90" prefix="" uuid="{cb9a1dba-8b10-4dd4-8af9-7bb34303ace0}" type="embed://import/vehicles/turn_signal_symbol.elmt" orientation="2" freezeLabel="false" z="10">
                 <terminals/>
                 <inputs/>
@@ -1086,8 +1129,8 @@ PARTIDA</text>
             </element>
             <element x="242" y="61" prefix="" uuid="{8d81c8c1-fec0-4269-a96e-7d96394ea931}" type="embed://import/vehicles/gn_125/tachometer.elmt" orientation="0" freezeLabel="false" z="10">
                 <terminals>
-                    <terminal x="15.6561" y="15.1661" orientation="2" id="185"/>
-                    <terminal x="10.8765" y="15.7086" orientation="2" id="186"/>
+                    <terminal x="15.6561" y="15.1661" orientation="2" id="202"/>
+                    <terminal x="10.8765" y="15.7086" orientation="2" id="203"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1102,8 +1145,8 @@ PARTIDA</text>
             </element>
             <element x="132" y="164" prefix="" uuid="{15c89af3-807c-472d-8aee-e900aae5e9df}" type="embed://import/vehicles/gn_125/electric_harnesses/simple_connector.elmt" orientation="0" freezeLabel="false" z="10">
                 <terminals>
-                    <terminal x="0" y="-7" orientation="0" id="187"/>
-                    <terminal x="0" y="7" orientation="2" id="188"/>
+                    <terminal x="0" y="-7" orientation="0" id="204"/>
+                    <terminal x="0" y="7" orientation="2" id="205"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1114,8 +1157,8 @@ PARTIDA</text>
             </element>
             <element x="205" y="104" prefix="" uuid="{c4f507ec-e271-4837-9d3c-232947ff2532}" type="embed://import/lights/small_simple_filament_lamp.elmt" orientation="0" freezeLabel="false" z="10">
                 <terminals>
-                    <terminal x="-4.44053" y="4.05569" orientation="2" id="189"/>
-                    <terminal x="4.64341" y="4.07081" orientation="2" id="190"/>
+                    <terminal x="-4.44053" y="4.05569" orientation="2" id="206"/>
+                    <terminal x="4.64341" y="4.07081" orientation="2" id="207"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1151,14 +1194,14 @@ PARTIDA</text>
             </element>
             <element x="358" y="130" prefix="" uuid="{93fcc24f-81c6-412e-ab50-816037e68a39}" type="embed://import/vehicles/gn_125/electric_harnesses/four_way_connector.elmt" orientation="0" freezeLabel="false" z="10">
                 <terminals>
-                    <terminal x="-27.32" y="-6.219" orientation="0" id="191"/>
-                    <terminal x="-8.915" y="-6.219" orientation="0" id="192"/>
-                    <terminal x="10.085" y="-6.219" orientation="0" id="193"/>
-                    <terminal x="26.475" y="-6.219" orientation="0" id="194"/>
-                    <terminal x="-27.32" y="7.751" orientation="2" id="195"/>
-                    <terminal x="-8.915" y="7.751" orientation="2" id="196"/>
-                    <terminal x="10.085" y="7.751" orientation="2" id="197"/>
-                    <terminal x="26.475" y="7.751" orientation="2" id="198"/>
+                    <terminal x="-27.32" y="-6.219" orientation="0" id="208"/>
+                    <terminal x="-8.915" y="-6.219" orientation="0" id="209"/>
+                    <terminal x="10.085" y="-6.219" orientation="0" id="210"/>
+                    <terminal x="26.475" y="-6.219" orientation="0" id="211"/>
+                    <terminal x="-27.32" y="7.751" orientation="2" id="212"/>
+                    <terminal x="-8.915" y="7.751" orientation="2" id="213"/>
+                    <terminal x="10.085" y="7.751" orientation="2" id="214"/>
+                    <terminal x="26.475" y="7.751" orientation="2" id="215"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1169,8 +1212,8 @@ PARTIDA</text>
             </element>
             <element x="168" y="61" prefix="" uuid="{c4e4fa6c-8c3f-404c-8cf1-8815294016bb}" type="embed://import/vehicles/gn_125/speedometer.elmt" orientation="0" freezeLabel="false" z="10">
                 <terminals>
-                    <terminal x="-6.3439" y="15.1661" orientation="2" id="199"/>
-                    <terminal x="-11.1235" y="15.7086" orientation="2" id="200"/>
+                    <terminal x="-6.3439" y="15.1661" orientation="2" id="216"/>
+                    <terminal x="-11.1235" y="15.7086" orientation="2" id="217"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1185,8 +1228,8 @@ PARTIDA</text>
             </element>
             <element x="152" y="164" prefix="" uuid="{9d17970d-c876-44bf-8543-0c0ef24d8da1}" type="embed://import/vehicles/gn_125/electric_harnesses/simple_connector.elmt" orientation="0" freezeLabel="false" z="10">
                 <terminals>
-                    <terminal x="0" y="-7" orientation="0" id="201"/>
-                    <terminal x="0" y="7" orientation="2" id="202"/>
+                    <terminal x="0" y="-7" orientation="0" id="218"/>
+                    <terminal x="0" y="7" orientation="2" id="219"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1200,27 +1243,48 @@ PARTIDA</text>
             </element>
             <element x="206" y="626" prefix="" uuid="{1dd009a7-4dc2-4c14-a3c7-400444933b19}" type="embed://import/vehicles/gn_125/switches/ignition_switch.elmt" orientation="0" freezeLabel="false" z="10">
                 <terminals>
-                    <terminal x="-20.3132" y="-28.6797" orientation="0" id="203"/>
-                    <terminal x="-0.268916" y="-28.6797" orientation="0" id="204"/>
-                    <terminal x="21.3173" y="-28.6797" orientation="0" id="205"/>
-                    <terminal x="38.5862" y="-28.6797" orientation="0" id="206"/>
+                    <terminal x="-20.3132" y="-28.6797" orientation="0" id="220"/>
+                    <terminal x="-0.268916" y="-28.6797" orientation="0" id="221"/>
+                    <terminal x="21.3173" y="-28.6797" orientation="0" id="222"/>
+                    <terminal x="38.5862" y="-28.6797" orientation="0" id="223"/>
+                </terminals>
+                <inputs/>
+                <dynamic_texts>
+                    <dynamic_elmt_text x="-54" font="Sans Serif,6,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="30" uuid="{2d76d0cd-b208-49fb-ba51-883d99d53514}" rotation="0" frame="true" text_width="-1" keep_visual_rotation="true" Halignment="AlignLeft" Valignment="AlignTop">
+                        <text>INTERRUPTOR DE IGNIÇÃO</text>
+                    </dynamic_elmt_text>
+                </dynamic_texts>
+                <texts_groups/>
+            </element>
+            <element x="880" y="336" prefix="X" uuid="{4e6738a0-fd3a-4ddb-bdc0-3b4511bd0832}" type="embed://import/10_electric/10_allpole/130_terminals_terminal_strips/borne_2.elmt" orientation="1" freezeLabel="false" z="10">
+                <terminals>
+                    <terminal x="0" y="-6" orientation="0" id="224"/>
+                    <terminal x="6" y="0" orientation="1" id="225"/>
+                    <terminal x="0" y="6" orientation="2" id="226"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
+                    <elementInformation name="comment" show="1"></elementInformation>
+                    <elementInformation name="location" show="1"></elementInformation>
                     <elementInformation name="formula" show="1"></elementInformation>
+                    <elementInformation name="label" show="1"></elementInformation>
                 </elementInformations>
+                <properties>
+                    <element_type terminal_function="generic" terminal_type="generic" terminal_led="false"/>
+                </properties>
                 <dynamic_texts>
-                    <dynamic_elmt_text x="-5.78837" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="27.824" uuid="{e5b88276-e26a-4a4f-a6b6-90ea86f95b14}" rotation="0" frame="false" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop">
-                        <text>_</text>
+                    <dynamic_elmt_text x="3" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="ElementInfo" y="-23.5" uuid="{0acd5b6e-d88d-4ff1-9ae7-71431b51a5e3}" rotation="270" frame="false" text_width="-1" keep_visual_rotation="true" Halignment="AlignLeft" Valignment="AlignTop">
+                        <text></text>
+                        <info_name>label</info_name>
                     </dynamic_elmt_text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
             <element x="280" y="214" prefix="X" uuid="{01e1f7fa-bdd9-40cc-8626-4bf3805fd074}" type="embed://import/10_electric/10_allpole/130_terminals_terminal_strips/borne_2.elmt" orientation="3" freezeLabel="false" z="10">
                 <terminals>
-                    <terminal x="0" y="-6" orientation="0" id="207"/>
-                    <terminal x="6" y="0" orientation="1" id="208"/>
-                    <terminal x="0" y="6" orientation="2" id="209"/>
+                    <terminal x="0" y="-6" orientation="0" id="227"/>
+                    <terminal x="6" y="0" orientation="1" id="228"/>
+                    <terminal x="0" y="6" orientation="2" id="229"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1240,11 +1304,45 @@ PARTIDA</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
+            <element x="466" y="834" prefix="" uuid="{9343ce8e-6ac1-4123-b63f-5f714cff1ff5}" type="embed://import/10_electric/10_allpole/110_network_supplies/terre.elmt" orientation="0" freezeLabel="false" z="10">
+                <terminals>
+                    <terminal x="0" y="-7" orientation="0" id="230"/>
+                </terminals>
+                <inputs/>
+                <elementInformations>
+                    <elementInformation name="manufacturer" show="1"></elementInformation>
+                    <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+                    <elementInformation name="comment" show="1"></elementInformation>
+                    <elementInformation name="location" show="1"></elementInformation>
+                    <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+                    <elementInformation name="plant" show="1"></elementInformation>
+                    <elementInformation name="formula" show="1"></elementInformation>
+                    <elementInformation name="label" show="1"></elementInformation>
+                    <elementInformation name="description" show="1"></elementInformation>
+                    <elementInformation name="designation" show="1"></elementInformation>
+                    <elementInformation name="unity" show="1"></elementInformation>
+                    <elementInformation name="quantity" show="1"></elementInformation>
+                    <elementInformation name="supplier" show="1"></elementInformation>
+                </elementInformations>
+                <properties>
+                    <element_type terminal_function="generic" terminal_type="generic" terminal_led="false"/>
+                </properties>
+                <dynamic_texts>
+                    <dynamic_elmt_text x="2" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_from="ElementInfo" y="-22.5" uuid="{b93a5f07-4d1f-4d5b-834f-e01655ec4456}" rotation="0" frame="false" text_width="-1" keep_visual_rotation="true" Halignment="AlignLeft" Valignment="AlignTop">
+                        <text></text>
+                        <info_name>label</info_name>
+                    </dynamic_elmt_text>
+                    <dynamic_elmt_text x="-10" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="0" uuid="{ae98f60e-ac87-468f-af5e-0aeb84fa3ccf}" rotation="0" frame="false" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop">
+                        <text></text>
+                    </dynamic_elmt_text>
+                </dynamic_texts>
+                <texts_groups/>
+            </element>
             <element x="232" y="214" prefix="X" uuid="{a4cb7397-6987-4678-b488-f94bdc4eef8b}" type="embed://import/10_electric/10_allpole/130_terminals_terminal_strips/borne_2.elmt" orientation="1" freezeLabel="false" z="10">
                 <terminals>
-                    <terminal x="0" y="-6" orientation="0" id="210"/>
-                    <terminal x="6" y="0" orientation="1" id="211"/>
-                    <terminal x="0" y="6" orientation="2" id="212"/>
+                    <terminal x="0" y="-6" orientation="0" id="231"/>
+                    <terminal x="6" y="0" orientation="1" id="232"/>
+                    <terminal x="0" y="6" orientation="2" id="233"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1266,9 +1364,9 @@ PARTIDA</text>
             </element>
             <element x="232" y="214" prefix="X" uuid="{0d9ce8eb-421c-4dbd-82c5-1c3723cc9b25}" type="embed://import/10_electric/10_allpole/130_terminals_terminal_strips/borne_2.elmt" orientation="1" freezeLabel="false" z="10">
                 <terminals>
-                    <terminal x="0" y="-6" orientation="0" id="213"/>
-                    <terminal x="6" y="0" orientation="1" id="214"/>
-                    <terminal x="0" y="6" orientation="2" id="215"/>
+                    <terminal x="0" y="-6" orientation="0" id="234"/>
+                    <terminal x="6" y="0" orientation="1" id="235"/>
+                    <terminal x="0" y="6" orientation="2" id="236"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1290,14 +1388,14 @@ PARTIDA</text>
             </element>
         </elements>
         <conductors>
-            <conductor numsize="6" type="multi" userx="344" x="34" displaytext="1" element2="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" usery="650" num="P" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{fff8a9d3-59e2-4dd8-bb71-539f91a1c879}" text_color="#000000" element1="{14878a08-fc1e-482d-964f-5ee9d2059e32}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="false" terminal2="{a4e8e3bb-b86c-4c1b-8ae1-f0a5d699364b}">
+            <conductor numsize="6" type="multi" userx="344" x="34" displaytext="1" element2="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" usery="650" num="P" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{fff8a9d3-59e2-4dd8-bb71-539f91a1c879}" text_color="#000000" element1="{14878a08-fc1e-482d-964f-5ee9d2059e32}" cable="" y="101" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="false" terminal2="{a4e8e3bb-b86c-4c1b-8ae1-f0a5d699364b}">
                 <sequentialNumbers/>
             </conductor>
             <conductor numsize="7" type="multi" userx="804" x="34" displaytext="1" element2="{e6e1446c-b477-4677-a557-0d544c7d02bc}" usery="626" num="P" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{1a74d7d2-e8e4-4c81-b9bf-e2697a6087db}" text_color="#000000" element1="{53358efd-d71f-4bc0-94f3-99605ebf183f}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="P" color2="#ffffff" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="true" terminal2="{0cd72ce4-866e-43b5-8597-c7b12fb87742}">
                 <segment length="14.4" orientation="vertical"/>
-                <segment length="0" orientation="horizontal"/>
+                <segment length="-6" orientation="vertical"/>
                 <segment length="-82" orientation="horizontal"/>
-                <segment length="100" orientation="vertical"/>
+                <segment length="106" orientation="vertical"/>
                 <segment length="13" orientation="vertical"/>
                 <sequentialNumbers/>
             </conductor>
@@ -1316,11 +1414,11 @@ PARTIDA</text>
                 <sequentialNumbers/>
             </conductor>
             <conductor numsize="7" type="multi" userx="800" x="34" displaytext="1" element2="{75fee2b0-c842-4512-83e8-c603e9b63eac}" usery="392" num="VE" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{5c47ec33-e27d-4d56-947b-f65fcaf59706}" text_color="#000000" element1="{a1471c98-222f-4d90-9647-9544e4682273}" cable="" y="120" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="VE" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#ff0000" bicolor="false" terminal2="{9baeca1e-7919-497c-9011-f6bcb928c592}">
-                <segment length="-5" orientation="vertical"/>
-                <segment length="-137.5" orientation="vertical"/>
+                <segment length="-15" orientation="vertical"/>
+                <segment length="-147.5" orientation="vertical"/>
                 <segment length="-230.9" orientation="horizontal"/>
-                <segment length="72.5" orientation="vertical"/>
-                <segment length="12.7" orientation="vertical"/>
+                <segment length="62.5" orientation="vertical"/>
+                <segment length="2.7" orientation="vertical"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor numsize="6" type="multi" userx="676" x="34" displaytext="1" element2="{5b0c7c00-7d06-4b44-b096-0681d457f2ec}" usery="236" num="AM" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{342172fb-5509-4290-8319-5fe8fa3992bc}" text_color="#000000" element1="{4b669a9c-a166-4428-960d-f7802c505420}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#ffff00" bicolor="false" terminal2="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}">
@@ -1337,9 +1435,6 @@ PARTIDA</text>
             <conductor numsize="5" type="multi" userx="230" x="34" displaytext="1" usery="278" num="P/B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="67" text_color="#000000" style="line-style: dashed;" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" tension_protocol="" formula="" color2="#ffffff" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="true" terminal2="59">
                 <sequentialNumbers/>
             </conductor>
-            <conductor numsize="5" type="multi" userx="790" x="34" displaytext="1" usery="278" num="P/B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="64" text_color="#000000" style="line-style: dashed;" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" tension_protocol="" formula="" color2="#ffffff" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="true" terminal2="2">
-                <sequentialNumbers/>
-            </conductor>
             <conductor numsize="5" type="multi" userx="296" x="34" displaytext="1" element2="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" usery="570" num="P/B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="79" text_color="#000000" style="line-style: dashed;" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" tension_protocol="" formula="" color2="#ffffff" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="true" terminal2="{0bce79dc-f7ae-4aae-aa4a-e5962717c05d}">
                 <sequentialNumbers/>
             </conductor>
@@ -1349,18 +1444,13 @@ PARTIDA</text>
             <conductor numsize="6" type="multi" userx="698" x="34" displaytext="1" element2="{86d81ca5-9e40-427b-8b54-926b84601142}" usery="124" num="P" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{0bce79dc-f7ae-4aae-aa4a-e5962717c05d}" text_color="#000000" element1="{5b0c7c00-7d06-4b44-b096-0681d457f2ec}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="false" terminal2="{6d2619ef-9a23-4529-96bf-b6ce4d9f1d45}">
                 <sequentialNumbers/>
             </conductor>
-            <conductor numsize="6" type="multi" userx="328" x="34" displaytext="1" element2="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" usery="654" num="AZC" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{0a07ad7e-4285-4026-b1b0-dd320f014639}" text_color="#000000" element1="{14878a08-fc1e-482d-964f-5ee9d2059e32}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#00aaff" bicolor="false" terminal2="{ba2ead0c-13d3-4344-9aa3-4abc029d89ee}">
+            <conductor numsize="6" type="multi" userx="328" x="34" displaytext="1" element2="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" usery="654" num="AZC" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{0a07ad7e-4285-4026-b1b0-dd320f014639}" text_color="#000000" element1="{14878a08-fc1e-482d-964f-5ee9d2059e32}" cable="" y="101" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#00aaff" bicolor="false" terminal2="{ba2ead0c-13d3-4344-9aa3-4abc029d89ee}">
                 <sequentialNumbers/>
             </conductor>
             <conductor numsize="5" type="multi" userx="746" x="34" displaytext="1" element2="{cdaed6c6-d57b-416d-a320-a671c4d16c85}" usery="230" num="P/B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="63" text_color="#000000" style="line-style: dashed;" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" tension_protocol="" formula="" color2="#ffffff" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="true" terminal2="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}">
                 <sequentialNumbers/>
             </conductor>
-            <conductor numsize="7" type="multi" userx="290" x="34" displaytext="1" usery="452" num="R" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{342172fb-5509-4290-8319-5fe8fa3992bc}" text_color="#000000" element1="{51ab4a07-25b5-4207-967d-413e3089da7b}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#ffaaff" bicolor="false" terminal2="70">
-                <segment length="-11.781" orientation="vertical"/>
-                <segment length="-26" orientation="vertical"/>
-                <segment length="270.915" orientation="horizontal"/>
-                <segment length="26" orientation="vertical"/>
-                <segment length="10" orientation="horizontal"/>
+            <conductor numsize="7" type="multi" userx="230" x="0" displaytext="1" element2="{12ed7bf8-5739-4cc3-a495-7ad40253a569}" usery="658" num="V" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{887565a0-19aa-48e8-ba1e-c44247343a40}" text_color="#000000" element1="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" cable="" y="45" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#005500" bicolor="false" terminal2="{ff9a0031-273e-4dbe-b85d-0c00bc33ab72}">
                 <sequentialNumbers/>
             </conductor>
             <conductor numsize="7" type="multi" userx="944" x="34" displaytext="1" usery="480" num="VE" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{1d9c56b9-e6ee-434a-8743-85b847ba1782}" text_color="#000000" element1="{d7f5ce70-866e-4d32-939a-77d7c94b1c97}" cable="" y="120" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="VE" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#ff0000" bicolor="false" terminal2="100">
@@ -1389,7 +1479,7 @@ PARTIDA</text>
             <conductor numsize="6" type="multi" userx="738" x="34" displaytext="1" element2="{cdaed6c6-d57b-416d-a320-a671c4d16c85}" usery="128" num="P/B&#xa;" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{fa2f278a-906f-401d-b1ed-a6458011e3a7}" text_color="#000000" element1="{86d81ca5-9e40-427b-8b54-926b84601142}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="P/B&#xa;" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="false" terminal2="{342172fb-5509-4290-8319-5fe8fa3992bc}">
                 <sequentialNumbers/>
             </conductor>
-            <conductor numsize="6" type="multi" userx="294" x="34" displaytext="1" element2="{040fb47a-c9a2-4cc3-bf22-607f23938858}" usery="676" num="P/B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{3634c5a8-cc5b-4043-9ee6-e76a13b7dc4b}" text_color="#000000" style="line-style: dashed;" element1="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" cable="" y="34" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#ffffff" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="true" terminal2="{0a07ad7e-4285-4026-b1b0-dd320f014639}">
+            <conductor numsize="6" type="multi" userx="294" x="34" displaytext="1" element2="{040fb47a-c9a2-4cc3-bf22-607f23938858}" usery="676" num="P/B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{3634c5a8-cc5b-4043-9ee6-e76a13b7dc4b}" text_color="#000000" style="line-style: dashed;" element1="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" cable="" y="79" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#ffffff" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="true" terminal2="{0a07ad7e-4285-4026-b1b0-dd320f014639}">
                 <segment length="11.8827" orientation="vertical"/>
                 <segment length="9" orientation="vertical"/>
                 <segment length="-6.99005" orientation="horizontal"/>
@@ -1399,25 +1489,22 @@ PARTIDA</text>
                 <sequentialNumbers/>
             </conductor>
             <conductor numsize="5" type="multi" userx="932" x="34" displaytext="1" element2="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" usery="190" num="AZC" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{72de86f6-1477-4a81-b487-627ffa9f74c4}" text_color="#000000" element1="{cae97ae4-a5f7-475e-95a4-25e7456b0d0b}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" rotation="270" formula="AZC" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#00aaff" bicolor="false" terminal2="{30f4ccf9-9f3b-4fc0-a417-2e348ed94708}">
-                <segment length="14.9" orientation="vertical"/>
-                <segment length="218" orientation="vertical"/>
+                <segment length="26.15" orientation="vertical"/>
+                <segment length="229.25" orientation="vertical"/>
                 <segment length="-602.935" orientation="horizontal"/>
-                <segment length="272" orientation="vertical"/>
-                <segment length="12.5488" orientation="vertical"/>
+                <segment length="283.25" orientation="vertical"/>
+                <segment length="23.7988" orientation="vertical"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor numsize="5" type="multi" userx="568" x="34" displaytext="1" usery="278" num="P/B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="78" text_color="#000000" style="line-style: dashed;" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" tension_protocol="" formula="" color2="#ffffff" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="true" terminal2="62">
                 <sequentialNumbers/>
             </conductor>
-            <conductor numsize="6" type="multi" userx="214" x="34" displaytext="1" element2="{2029a016-f39e-4010-a1df-20fcf8a43c04}" usery="630" num="AM/B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{74f437e7-9404-4f8c-b282-166bcb0bd61b}" text_color="#000000" style="line-style: dashed;" element1="{f3c497b5-77a4-4cf0-a349-564b38f78e48}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#ffffff" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#ffff7f" bicolor="true" terminal2="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}">
+            <conductor numsize="6" type="multi" userx="214" x="34" displaytext="1" element2="{2029a016-f39e-4010-a1df-20fcf8a43c04}" usery="630" num="AM/B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{74f437e7-9404-4f8c-b282-166bcb0bd61b}" text_color="#000000" style="line-style: dashed;" element1="{f3c497b5-77a4-4cf0-a349-564b38f78e48}" cable="" y="101" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#ffffff" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#ffff7f" bicolor="true" terminal2="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}">
                 <segment length="-6.275" orientation="vertical"/>
                 <segment length="-22" orientation="vertical"/>
                 <segment length="54.525" orientation="horizontal"/>
                 <segment length="2" orientation="vertical"/>
                 <segment length="-15" orientation="vertical"/>
-                <sequentialNumbers/>
-            </conductor>
-            <conductor numsize="7" type="multi" userx="454" x="34" displaytext="1" element2="{12ed7bf8-5739-4cc3-a495-7ad40253a569}" usery="612" num="R" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="69" text_color="#000000" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#ffaaff" bicolor="false" terminal2="{ff9a0031-273e-4dbe-b85d-0c00bc33ab72}">
                 <sequentialNumbers/>
             </conductor>
             <conductor numsize="5" type="multi" userx="522" x="34" displaytext="1" element2="{a4d71e29-a827-45db-9a21-13ddc66d4fe5}" usery="146" num="V" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{30c4c1e0-141a-4be7-a6be-9897fc98ceee}" text_color="#000000" element1="{a911d151-c64d-4147-bfe8-1a3ddf455b48}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#005500" bicolor="false" terminal2="{05b734f9-89ff-413e-9263-71013cfbecd2}">
@@ -1429,7 +1516,7 @@ PARTIDA</text>
             <conductor numsize="5" type="multi" userx="542" x="34" displaytext="1" element2="{a4d71e29-a827-45db-9a21-13ddc66d4fe5}" usery="148" num="AZ" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{342172fb-5509-4290-8319-5fe8fa3992bc}" text_color="#000000" element1="{a911d151-c64d-4147-bfe8-1a3ddf455b48}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#004add" bicolor="false" terminal2="{fa2f278a-906f-401d-b1ed-a6458011e3a7}">
                 <sequentialNumbers/>
             </conductor>
-            <conductor numsize="5" type="multi" userx="262" x="34" displaytext="1" element2="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" usery="636" num="AM" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{fff8a9d3-59e2-4dd8-bb71-539f91a1c879}" text_color="#000000" element1="{f3c497b5-77a4-4cf0-a349-564b38f78e48}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#ffff7f" bicolor="false" terminal2="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}">
+            <conductor numsize="5" type="multi" userx="262" x="34" displaytext="1" element2="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" usery="636" num="AM" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{fff8a9d3-59e2-4dd8-bb71-539f91a1c879}" text_color="#000000" element1="{f3c497b5-77a4-4cf0-a349-564b38f78e48}" cable="" y="101" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#ffff7f" bicolor="false" terminal2="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}">
                 <segment length="-6.275" orientation="vertical"/>
                 <segment length="-10" orientation="vertical"/>
                 <segment length="53.8775" orientation="horizontal"/>
@@ -1437,18 +1524,15 @@ PARTIDA</text>
                 <segment length="-14.8827" orientation="vertical"/>
                 <sequentialNumbers/>
             </conductor>
-            <conductor numsize="5" type="multi" userx="522" x="34" displaytext="1" usery="692" num="V" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{319d3e67-9b2b-4940-a26b-52595e71b13d}" text_color="#000000" element1="{a911d151-c64d-4147-bfe8-1a3ddf455b48}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#005500" bicolor="false" terminal2="57">
+            <conductor numsize="5" type="multi" userx="550" x="34" displaytext="1" usery="690" num="V" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{319d3e67-9b2b-4940-a26b-52595e71b13d}" text_color="#000000" element1="{a911d151-c64d-4147-bfe8-1a3ddf455b48}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#005500" bicolor="false" terminal2="57">
+                <segment length="11.5" orientation="vertical"/>
+                <segment length="28" orientation="horizontal"/>
+                <segment length="600" orientation="vertical"/>
+                <segment length="14" orientation="horizontal"/>
+                <segment length="-10" orientation="vertical"/>
                 <sequentialNumbers/>
             </conductor>
-            <conductor numsize="7" type="multi" userx="438" x="34" displaytext="1" element2="{12ed7bf8-5739-4cc3-a495-7ad40253a569}" usery="596" num="V" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{887565a0-19aa-48e8-ba1e-c44247343a40}" text_color="#000000" element1="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#005500" bicolor="false" terminal2="{5afe8d2c-449e-4269-a7eb-8c4b4eaf7873}">
-                <segment length="-9.0488" orientation="vertical"/>
-                <segment length="-114.5" orientation="vertical"/>
-                <segment length="159.976" orientation="horizontal"/>
-                <segment length="185.5" orientation="vertical"/>
-                <segment length="16.8571" orientation="vertical"/>
-                <sequentialNumbers/>
-            </conductor>
-            <conductor numsize="7" type="multi" userx="280" x="34" displaytext="1" element2="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" usery="656" num="V" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{74f437e7-9404-4f8c-b282-166bcb0bd61b}" text_color="#000000" element1="{040fb47a-c9a2-4cc3-bf22-607f23938858}" cable="" y="34" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#005500" bicolor="false" terminal2="{af63f0c6-1135-4d04-90e7-4c8638b2735b}">
+            <conductor numsize="7" type="multi" userx="280" x="34" displaytext="1" element2="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" usery="656" num="V" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{74f437e7-9404-4f8c-b282-166bcb0bd61b}" text_color="#000000" element1="{040fb47a-c9a2-4cc3-bf22-607f23938858}" cable="" y="79" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#005500" bicolor="false" terminal2="{af63f0c6-1135-4d04-90e7-4c8638b2735b}">
                 <segment length="-6.7207" orientation="vertical"/>
                 <segment length="-4" orientation="vertical"/>
                 <segment length="17.5827" orientation="horizontal"/>
@@ -1456,13 +1540,13 @@ PARTIDA</text>
                 <segment length="-12.8827" orientation="vertical"/>
                 <sequentialNumbers/>
             </conductor>
-            <conductor numsize="6" type="multi" userx="314" x="34" displaytext="1" element2="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" usery="652" num="VC" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{74f437e7-9404-4f8c-b282-166bcb0bd61b}" text_color="#000000" element1="{14878a08-fc1e-482d-964f-5ee9d2059e32}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#bbe380" bicolor="false" terminal2="{a95e9e39-83cb-4eb4-b9f4-2a4a8c2dec3c}">
+            <conductor numsize="6" type="multi" userx="314" x="34" displaytext="1" element2="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" usery="652" num="VC" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{74f437e7-9404-4f8c-b282-166bcb0bd61b}" text_color="#000000" element1="{14878a08-fc1e-482d-964f-5ee9d2059e32}" cable="" y="101" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#bbe380" bicolor="false" terminal2="{a95e9e39-83cb-4eb4-b9f4-2a4a8c2dec3c}">
                 <sequentialNumbers/>
             </conductor>
             <conductor numsize="6" type="multi" userx="608" x="34" displaytext="1" element2="{4b669a9c-a166-4428-960d-f7802c505420}" usery="728" num="AM" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{6e5bea17-6d12-411d-b058-da577a3fd1b9}" text_color="#000000" element1="{56b46ff2-6828-440c-a67d-614094999f82}" cable="" y="-8" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#ffff00" bicolor="false" terminal2="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}">
                 <sequentialNumbers/>
             </conductor>
-            <conductor numsize="5" type="multi" userx="542" x="34" displaytext="1" usery="694" num="AZ" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}" text_color="#000000" element1="{a911d151-c64d-4147-bfe8-1a3ddf455b48}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#004add" bicolor="false" terminal2="58">
+            <conductor numsize="5" type="multi" userx="564" x="34" displaytext="1" usery="692" num="AZ" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}" text_color="#000000" element1="{a911d151-c64d-4147-bfe8-1a3ddf455b48}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#004add" bicolor="false" terminal2="58">
                 <sequentialNumbers/>
             </conductor>
             <conductor numsize="7" type="multi" userx="1026" x="34" displaytext="1" usery="536" num="VE" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="101" text_color="#000000" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" tension_protocol="" formula="" color2="#000000" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#ff0000" bicolor="false" terminal2="45">
@@ -1516,7 +1600,7 @@ PARTIDA</text>
             <conductor numsize="5" type="multi" userx="132" x="68" displaytext="1" element2="{1dd009a7-4dc2-4c14-a3c7-400444933b19}" usery="618" num="L" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}" text_color="#000000" element1="{51ab4a07-25b5-4207-967d-413e3089da7b}" cable="" y="-38" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#ffaa00" bicolor="false" terminal2="{0a07ad7e-4285-4026-b1b0-dd320f014639}">
                 <sequentialNumbers/>
             </conductor>
-            <conductor numsize="6" type="multi" userx="252" x="34" displaytext="1" element2="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" usery="634" num="B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{0a07ad7e-4285-4026-b1b0-dd320f014639}" text_color="#000000" element1="{f3c497b5-77a4-4cf0-a349-564b38f78e48}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#e7e7e7" bicolor="false" terminal2="{319d3e67-9b2b-4940-a26b-52595e71b13d}">
+            <conductor numsize="6" type="multi" userx="252" x="34" displaytext="1" element2="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" usery="634" num="B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{0a07ad7e-4285-4026-b1b0-dd320f014639}" text_color="#000000" element1="{f3c497b5-77a4-4cf0-a349-564b38f78e48}" cable="" y="101" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#e7e7e7" bicolor="false" terminal2="{319d3e67-9b2b-4940-a26b-52595e71b13d}">
                 <segment length="-6.275" orientation="vertical"/>
                 <segment length="-14" orientation="vertical"/>
                 <segment length="60.1713" orientation="horizontal"/>
@@ -1541,7 +1625,7 @@ PARTIDA</text>
                 <segment length="-12.0414" orientation="vertical"/>
                 <sequentialNumbers/>
             </conductor>
-            <conductor numsize="5" type="multi" userx="218" x="0" displaytext="1" usery="546" num="CZ" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{887565a0-19aa-48e8-ba1e-c44247343a40}" text_color="#000000" element1="{51ab4a07-25b5-4207-967d-413e3089da7b}" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#6a6a6a" bicolor="false" terminal2="214">
+            <conductor numsize="5" type="multi" userx="218" x="0" displaytext="1" usery="546" num="CZ" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{887565a0-19aa-48e8-ba1e-c44247343a40}" text_color="#000000" element1="{51ab4a07-25b5-4207-967d-413e3089da7b}" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#6a6a6a" bicolor="false" terminal2="235">
                 <sequentialNumbers/>
             </conductor>
             <conductor numsize="5" type="multi" userx="240" x="0" displaytext="1" element2="{8d81c8c1-fec0-4269-a96e-7d96394ea931}" usery="154" num="P/B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{30f4ccf9-9f3b-4fc0-a417-2e348ed94708}" text_color="#000000" style="line-style: dashed;" element1="{c67fafe3-7270-4a40-b773-7060a3fdbd46}" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#ffffff" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="true" terminal2="{bed3afa3-1800-4747-990b-a0c5fc2a1cee}">
@@ -1595,7 +1679,7 @@ PARTIDA</text>
             <conductor numsize="5" type="multi" userx="152" x="0" displaytext="1" usery="180" num="VC" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}" text_color="#000000" element1="{50db21de-330c-461b-9b8d-14fd81a07ad4}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#bbe380" bicolor="false" terminal2="165">
                 <sequentialNumbers/>
             </conductor>
-            <conductor numsize="5" type="multi" userx="254" x="0" displaytext="1" element2="{c67fafe3-7270-4a40-b773-7060a3fdbd46}" usery="194" num="CZ" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="208" text_color="#000000" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#6a6a6a" bicolor="false" terminal2="{a4e8e3bb-b86c-4c1b-8ae1-f0a5d699364b}">
+            <conductor numsize="5" type="multi" userx="254" x="0" displaytext="1" element2="{c67fafe3-7270-4a40-b773-7060a3fdbd46}" usery="194" num="CZ" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="228" text_color="#000000" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#6a6a6a" bicolor="false" terminal2="{a4e8e3bb-b86c-4c1b-8ae1-f0a5d699364b}">
                 <sequentialNumbers/>
             </conductor>
             <conductor numsize="5" type="multi" userx="198" x="0" displaytext="1" element2="{9d17970d-c876-44bf-8543-0c0ef24d8da1}" usery="280" num="P/B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="66" text_color="#000000" style="line-style: dashed;" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" tension_protocol="" formula="" color2="#ffffff" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="true" terminal2="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}">
@@ -1624,15 +1708,15 @@ PARTIDA</text>
             <conductor numsize="5" type="multi" userx="640" x="0" displaytext="1" usery="182" num="VC" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}" text_color="#000000" element1="{6867b8bd-aa26-4eaa-b106-e57409088d10}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#bbe380" bicolor="false" terminal2="168">
                 <sequentialNumbers/>
             </conductor>
-            <conductor numsize="5" type="multi" userx="238" x="0" displaytext="1" usery="210" num="" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="210" text_color="#000000" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" tension_protocol="" formula="" color2="#000000" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#6a6a6a" bicolor="false" terminal2="207">
+            <conductor numsize="5" type="multi" userx="238" x="0" displaytext="1" usery="210" num="" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="231" text_color="#000000" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" tension_protocol="" formula="" color2="#000000" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#6a6a6a" bicolor="false" terminal2="227">
                 <sequentialNumbers/>
             </conductor>
             <conductor numsize="5" type="multi" userx="346" x="0" displaytext="1" element2="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" usery="332" num="VC" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="169" text_color="#000000" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#bbe380" bicolor="false" terminal2="{0982be6d-8c64-4284-bd50-6589f6925247}">
                 <segment length="14" orientation="vertical"/>
-                <segment length="190" orientation="vertical"/>
+                <segment length="210" orientation="vertical"/>
                 <segment length="0.865" orientation="horizontal"/>
-                <segment length="190" orientation="vertical"/>
-                <segment length="12.5488" orientation="vertical"/>
+                <segment length="220" orientation="vertical"/>
+                <segment length="7.5488" orientation="vertical"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor numsize="5" type="multi" userx="1082" x="0" displaytext="1" element2="{64f8ed85-efd9-4682-adfe-9e1ae22480ea}" usery="336" num="P" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{342172fb-5509-4290-8319-5fe8fa3992bc}" text_color="#000000" element1="{d16459c1-70f0-4604-ab1b-02bbba6dccd7}" cable="" y="50" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="false" terminal2="{589bf488-4e95-4415-945f-b73d3078b980}">
@@ -1658,7 +1742,7 @@ PARTIDA</text>
             <conductor numsize="5" type="multi" x="34" displaytext="1" element2="{cddac0b9-2892-4542-a5b9-a9aecad6a7b1}" num="P/B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="76" text_color="#000000" style="line-style: dashed;" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" tension_protocol="" formula="" color2="#ffffff" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="true" terminal2="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}">
                 <sequentialNumbers/>
             </conductor>
-            <conductor numsize="5" type="multi" userx="118" x="0" displaytext="1" element2="{15c89af3-807c-472d-8aee-e900aae5e9df}" usery="178" num="CZ" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="215" text_color="#000000" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#6a6a6a" bicolor="false" terminal2="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}">
+            <conductor numsize="5" type="multi" userx="118" x="0" displaytext="1" element2="{15c89af3-807c-472d-8aee-e900aae5e9df}" usery="178" num="CZ" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="236" text_color="#000000" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#6a6a6a" bicolor="false" terminal2="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}">
                 <sequentialNumbers/>
             </conductor>
             <conductor numsize="5" type="multi" userx="206" x="0" displaytext="1" element2="{b6e51e0d-85e6-44fb-bdfd-d6ae58e67483}" usery="152" num="AZ" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{0bce79dc-f7ae-4aae-aa4a-e5962717c05d}" text_color="#000000" element1="{c67fafe3-7270-4a40-b773-7060a3fdbd46}" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#004add" bicolor="false" terminal2="{f44986c8-6de8-40f1-a9ef-1569f1dcf423}">
@@ -1670,7 +1754,7 @@ PARTIDA</text>
             <conductor numsize="5" type="multi" userx="162" x="0" displaytext="1" element2="{c67fafe3-7270-4a40-b773-7060a3fdbd46}" usery="206" num="VC" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="166" text_color="#000000" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#bbe380" bicolor="false" terminal2="{319d3e67-9b2b-4940-a26b-52595e71b13d}">
                 <sequentialNumbers/>
             </conductor>
-            <conductor numsize="5" type="multi" userx="336" x="0" displaytext="1" element2="{93fcc24f-81c6-412e-ab50-816037e68a39}" usery="160" num="CZ" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="209" text_color="#000000" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#6a6a6a" bicolor="false" terminal2="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}">
+            <conductor numsize="5" type="multi" userx="336" x="0" displaytext="1" element2="{93fcc24f-81c6-412e-ab50-816037e68a39}" usery="160" num="CZ" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="229" text_color="#000000" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#6a6a6a" bicolor="false" terminal2="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}">
                 <sequentialNumbers/>
             </conductor>
             <conductor numsize="5" type="multi" userx="238" x="0" displaytext="1" element2="{c67fafe3-7270-4a40-b773-7060a3fdbd46}" usery="196" num="P/B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="60" text_color="#000000" style="line-style: dashed;" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" tension_protocol="" formula="" color2="#ffffff" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="true" terminal2="{ba2ead0c-13d3-4344-9aa3-4abc029d89ee}">
@@ -1684,15 +1768,32 @@ PARTIDA</text>
             <conductor numsize="5" type="multi" userx="190" x="0" displaytext="1" element2="{c4f507ec-e271-4837-9d3c-232947ff2532}" usery="152" num="AM" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{887565a0-19aa-48e8-ba1e-c44247343a40}" text_color="#000000" element1="{c67fafe3-7270-4a40-b773-7060a3fdbd46}" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="AM" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#ffff7f" bicolor="false" terminal2="{f44986c8-6de8-40f1-a9ef-1569f1dcf423}">
                 <sequentialNumbers/>
             </conductor>
+            <conductor numsize="5" type="multi" x="0" displaytext="1" num="P/B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="224" text_color="#000000" style="line-style: dashed;" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" tension_protocol="" formula="" color2="#ffffff" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="true" terminal2="2">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor numsize="7" type="multi" userx="106" x="0" displaytext="1" element2="{12ed7bf8-5739-4cc3-a495-7ad40253a569}" usery="628" num="R" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="70" text_color="#000000" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#ffaaff" bicolor="false" terminal2="{5afe8d2c-449e-4269-a7eb-8c4b4eaf7873}">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor numsize="5" type="multi" userx="878" x="0" displaytext="1" element2="{75fee2b0-c842-4512-83e8-c603e9b63eac}" usery="486" num="P/B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="225" text_color="#000000" style="line-style: dashed;" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" tension_protocol="" formula="" color2="#ffffff" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="true" terminal2="{28b5b4fa-fb6c-4c93-b1bc-d2b6f257a772}">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor numsize="5" type="multi" x="0" displaytext="1" num="P/B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="226" text_color="#000000" style="line-style: dashed;" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" tension_protocol="" formula="" color2="#ffffff" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="true" terminal2="64">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor numsize="7" type="multi" userx="466" x="0" displaytext="1" element2="{9343ce8e-6ac1-4123-b63f-5f714cff1ff5}" usery="800" num="" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{ebdb82b6-dd79-4102-aaa3-102fca97f962}" text_color="#000000" element1="{a25fc28d-b3c0-4e3e-b87f-38916d378654}" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="false" terminal2="{0cd72ce4-866e-43b5-8597-c7b12fb87742}">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor numsize="7" type="multi" x="0" displaytext="1" element2="{51ab4a07-25b5-4207-967d-413e3089da7b}" num="R" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="69" text_color="#000000" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#ffaaff" bicolor="false" terminal2="{342172fb-5509-4290-8319-5fe8fa3992bc}">
+                <sequentialNumbers/>
+            </conductor>
         </conductors>
         <inputs>
-            <input x="184" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" y="788" rotation="0" text="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;style type=&quot;text/css&quot;>&#xa;p, li { white-space: pre-wrap; }&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'Sans Serif'; font-size:9pt; font-weight:0; font-style:normal;&quot;>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>INTERRUPTORES DO GUIDÃO ESQUERDO&lt;/p>&lt;/body>&lt;/html>"/>
-            <input x="314" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Regular" y="628" rotation="270" text="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;style type=&quot;text/css&quot;>&#xa;p, li { white-space: pre-wrap; }&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:5pt; font-weight:400; font-style:normal;&quot;>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>V&lt;/p>&lt;/body>&lt;/html>"/>
+            <input x="218" font="MS Shell Dlg 2,6,-1,5,50,0,0,0,0,0,Regular" y="827" rotation="0" text="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;style type=&quot;text/css&quot;>&#xa;p, li { white-space: pre-wrap; }&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:6pt; font-weight:400; font-style:normal;&quot;>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>INTERRUPTORES DO GUIDÃO ESQUERDO&lt;/p>&lt;/body>&lt;/html>"/>
             <input x="348" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Regular" y="626" rotation="270" text="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;style type=&quot;text/css&quot;>&#xa;p, li { white-space: pre-wrap; }&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:5pt; font-weight:400; font-style:normal;&quot;>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>VC&lt;/p>&lt;/body>&lt;/html>"/>
             <input x="364" font="MS Shell Dlg 2,5,-1,5,50,0,0,0,0,0,Regular" y="630" rotation="270" text="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;style type=&quot;text/css&quot;>&#xa;p, li { white-space: pre-wrap; }&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:5pt; font-weight:400; font-style:normal;&quot;>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>AZC&lt;/p>&lt;/body>&lt;/html>"/>
         </inputs>
         <shapes>
-            <shape y1="770" x2="412" y2="812" rx="0" closed="0" ry="0" type="Rectangle" x1="176" is_movable="1" z="0">
+            <shape y1="815" x2="390" y2="845" rx="0" closed="0" ry="0" type="Rectangle" x1="214" is_movable="1" z="0">
                 <pen color="#000000" style="SolidLine" widthF="1"/>
                 <brush color="#000000" style="NoBrush"/>
             </shape>
@@ -1919,6 +2020,31 @@ PARTIDA</text>
                                 </description>
                             </definition>
                         </element>
+                        <element name="five_way_connector.elmt">
+                            <definition hotspot_y="22" link_type="simple" width="100" hotspot_x="50" type="element" version="0.100.0" height="40">
+                                <uuid uuid="{32d46740-f336-4185-9907-bb33e68ddfb4}"/>
+                                <names>
+                                    <name lang="en">Five Way Connector</name>
+                                    <name lang="pt">Conector de Cinco Vias</name>
+                                </names>
+                                <elementInformations/>
+                                <informations/>
+                                <description>
+                                    <rect x="-42.5113" antialias="false" y="-0.4428" width="85.26" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" height="4.0131"/>
+                                    <polygon y6="-8.469" x4="42.7488" x9="-47.84" x12="-42.5112" x3="48.0775" y1="-0.4428" y5="-8.469" y8="-4.4559" x7="-42.5112" style="line-style:normal;line-weight:normal;filling:none;color:black" x11="-42.5112" x1="42.7488" y11="-0.4428" closed="false" y10="-0.4428" x8="-47.84" y7="-4.4559" x6="-42.5112" x10="-42.5112" antialias="false" y12="-0.4428" y4="-4.4559" x2="48.0775" y2="-0.4428" y9="-0.4428" y3="-4.4559" x5="42.7488"/>
+                                    <terminal x="-36.82" name="" y="-13.419" uuid="{30c4c1e0-141a-4be7-a6be-9897fc98ceee}" type="Generic" orientation="n"/>
+                                    <terminal x="16.975" name="" y="-13.419" uuid="{0bce79dc-f7ae-4aae-aa4a-e5962717c05d}" type="Generic" orientation="n"/>
+                                    <terminal x="0.085" name="" y="-13.419" uuid="{887565a0-19aa-48e8-ba1e-c44247343a40}" type="Generic" orientation="n"/>
+                                    <terminal x="-18.415" name="" y="-13.419" uuid="{342172fb-5509-4290-8319-5fe8fa3992bc}" type="Generic" orientation="n"/>
+                                    <terminal x="16.975" name="" y="8.551" uuid="{3634c5a8-cc5b-4043-9ee6-e76a13b7dc4b}" type="Generic" orientation="s"/>
+                                    <terminal x="-18.415" name="" y="8.551" uuid="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}" type="Generic" orientation="s"/>
+                                    <terminal x="0.085" name="" y="8.551" uuid="{af63f0c6-1135-4d04-90e7-4c8638b2735b}" type="Generic" orientation="s"/>
+                                    <terminal x="-36.82" name="" y="8.551" uuid="{319d3e67-9b2b-4940-a26b-52595e71b13d}" type="Generic" orientation="s"/>
+                                    <terminal x="34.875" name="" y="-13.419" uuid="{0982be6d-8c64-4284-bd50-6589f6925247}" type="Generic" orientation="n"/>
+                                    <terminal x="34.875" name="" y="8.551" uuid="{a95e9e39-83cb-4eb4-b9f4-2a4a8c2dec3c}" type="Generic" orientation="s"/>
+                                </description>
+                            </definition>
+                        </element>
                     </category>
                     <category name="switches">
                         <names>
@@ -2097,6 +2223,66 @@ PARTIDA</text>
                                     <terminal x="-10.525" name="" y="-22.725" uuid="{74f437e7-9404-4f8c-b282-166bcb0bd61b}" type="Generic" orientation="n"/>
                                     <terminal x="8.975" name="" y="-22.725" uuid="{0a07ad7e-4285-4026-b1b0-dd320f014639}" type="Generic" orientation="n"/>
                                     <terminal x="29.975" name="" y="-22.725" uuid="{fff8a9d3-59e2-4dd8-bb71-539f91a1c879}" type="Generic" orientation="n"/>
+                                </description>
+                            </definition>
+                        </element>
+                        <element name="gear_indicator_switch.elmt">
+                            <definition hotspot_y="55" link_type="simple" width="140" hotspot_x="70" type="element" version="0.100.0" height="110">
+                                <uuid uuid="{62a038ed-796e-4a66-8c10-75870b341112}"/>
+                                <names>
+                                    <name lang="en">Gear Indicator Switch</name>
+                                    <name lang="pt">Interruptor do Indicador de Marchas</name>
+                                </names>
+                                <elementInformations/>
+                                <informations/>
+                                <description>
+                                    <ellipse x="51.9535" antialias="false" y="30.3741" width="7.76434" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8.34561"/>
+                                    <text x="-58.6883" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-31.453" color="#000000" rotation="0" text="N"/>
+                                    <text x="-58.7292" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-18.7727" color="#000000" rotation="0" text="1"/>
+                                    <text x="-58.4942" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="38.5111" color="#000000" rotation="0" text="5"/>
+                                    <line antialias="false" y1="-41.2104" end2="none" x2="33.3838" y2="41.1747" x1="33.3838" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                                    <line antialias="false" y1="-41.2104" end2="none" x2="17.2081" y2="41.1747" x1="17.2081" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                                    <line antialias="false" y1="-41.2104" end2="none" x2="48.9125" y2="41.1747" x1="48.9125" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                                    <line antialias="false" y1="-7.66798" end2="none" x2="4.46165" y2="-7.66798" x1="-36.2365" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                                    <line antialias="false" y1="6.65865" end2="none" x2="20.6373" y2="6.65865" x1="-36.2365" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                                    <line antialias="false" y1="34.4078" end2="none" x2="51.6947" y2="34.4078" x1="-36.2365" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                                    <line antialias="false" y1="27.8704" end2="none" x2="63.6" y2="27.8704" x1="-63.444" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                                    <line antialias="false" y1="-28.532" end2="none" x2="63.6" y2="-28.532" x1="-63.7352" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                                    <ellipse x="4.72047" antialias="false" y="-11.4931" width="7.76434" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8.34561"/>
+                                    <line antialias="false" y1="-41.2104" end2="none" x2="1.0324" y2="41.1747" x1="1.0324" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                                    <ellipse x="20.8962" antialias="false" y="2.4163" width="7.76434" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8.34561"/>
+                                    <ellipse x="37.0719" antialias="false" y="16.3256" width="7.76434" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8.34561"/>
+                                    <ellipse x="-44.0008" antialias="false" y="-11.7017" width="7.76434" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8.34561"/>
+                                    <ellipse x="-44.0654" antialias="false" y="2.20766" width="7.76434" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8.34561"/>
+                                    <ellipse x="-44.0008" antialias="false" y="30.4436" width="7.76434" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8.34561"/>
+                                    <line antialias="false" y1="-14.6227" end2="none" x2="63.6" y2="-14.6227" x1="-63.7352" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                                    <text x="-59.0505" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="9.19998" color="#000000" rotation="0" text="3"/>
+                                    <text x="-58.8824" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="23.9062" color="#000000" rotation="0" text="4"/>
+                                    <line antialias="false" y1="13.196" end2="none" x2="63.6" y2="13.196" x1="-63.7352" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                                    <ellipse x="-11.0023" antialias="false" y="-25.611" width="7.76434" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8.34561"/>
+                                    <ellipse x="-44.0008" antialias="false" y="-25.611" width="7.76434" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8.34561"/>
+                                    <rect x="-63.6704" antialias="false" y="-41.6068" width="127.271" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" height="83.3171"/>
+                                    <ellipse x="-27.2427" antialias="false" y="-38.8249" width="7.76434" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8.34561"/>
+                                    <line antialias="false" y1="-21.5774" end2="none" x2="-11.067" y2="-21.5774" x1="-36.2365" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                                    <ellipse x="-44.0654" antialias="false" y="-38.8249" width="7.76434" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8.34561"/>
+                                    <line antialias="false" y1="-0.713304" end2="none" x2="63.6" y2="-0.713304" x1="-63.7352" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                                    <line antialias="false" y1="-41.2104" end2="none" x2="-31.319" y2="41.1747" x1="-31.319" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                                    <line antialias="false" y1="-41.2104" end2="none" x2="-48.1417" y2="41.1747" x1="-48.1417" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                                    <line antialias="false" y1="-41.2104" end2="none" x2="-14.4963" y2="41.1747" x1="-14.4963" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                                    <ellipse x="-44.0008" antialias="false" y="16.117" width="7.76434" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8.34561"/>
+                                    <line antialias="false" y1="20.4984" end2="none" x2="36.8778" y2="20.4984" x1="-36.2365" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                                    <line antialias="false" y1="-34.7912" end2="none" x2="-27.2427" y2="-34.7912" x1="-36.3011" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                                    <text x="-58.7292" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-4.05022" color="#000000" rotation="0" text="2"/>
+                                    <dynamic_text x="-0.0947047" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="36.4365" uuid="{b5971506-a67d-4214-b19d-440ee71a62d2}" rotation="0" frame="false" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop" z="39">
+                                        <text>_</text>
+                                    </dynamic_text>
+                                    <terminal x="42.1834" name="" y="-46.5841" uuid="{d20be807-9631-4490-9937-2e39b113169c}" type="Generic" orientation="n"/>
+                                    <terminal x="-23.5547" name="" y="-46.5841" uuid="{0a07ad7e-4285-4026-b1b0-dd320f014639}" type="Generic" orientation="n"/>
+                                    <terminal x="-5.43788" name="" y="-46.5841" uuid="{fff8a9d3-59e2-4dd8-bb71-539f91a1c879}" type="Generic" orientation="n"/>
+                                    <terminal x="60.3002" name="" y="-46.5841" uuid="{f3c74a42-0422-456a-b5d3-2de0a9aa0d45}" type="Generic" orientation="n"/>
+                                    <terminal x="-40.3127" name="" y="46.6876" uuid="{ebdb82b6-dd79-4102-aaa3-102fca97f962}" type="Generic" orientation="s"/>
+                                    <terminal x="25.3607" name="" y="-46.5841" uuid="{0af3c48f-b9bf-43cd-be74-9cdd4436f8a8}" type="Generic" orientation="n"/>
+                                    <terminal x="9.05557" name="" y="-46.5841" uuid="{e2692019-4a63-46c2-b851-b0396d2e194b}" type="Generic" orientation="n"/>
                                 </description>
                             </definition>
                         </element>
