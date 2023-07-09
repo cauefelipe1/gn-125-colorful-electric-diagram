@@ -4,7 +4,7 @@
         <property show="1" name="saveddate">7/9/2023</property>
         <property show="1" name="saveddate-eu">09-07-2023</property>
         <property show="1" name="saveddate-us">2023-07-09</property>
-        <property show="1" name="savedtime">13:12</property>
+        <property show="1" name="savedtime">13:19</property>
         <property show="1" name="savedfilename">electric-diagram</property>
     </properties>
     <newdiagrams>
@@ -35,15 +35,10 @@
                 <properties>
                     <element_type terminal_led="false" terminal_type="generic" terminal_function="generic"/>
                 </properties>
-                <dynamic_texts>
-                    <dynamic_elmt_text keep_visual_rotation="true" y="10" text_width="-1" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="-80" rotation="0" Halignment="AlignHCenter" Valignment="AlignTop" frame="true" text_from="UserText" uuid="{a133a3a0-e690-44b5-b39b-3d47c605eff1}">
-                        <text>ATERRAMENTO DO CHASSIS</text>
-                        <info_name>label</info_name>
-                    </dynamic_elmt_text>
-                </dynamic_texts>
+                <dynamic_texts/>
                 <texts_groups/>
             </element>
-            <element y="490" x="770" prefix="" freezeLabel="false" z="10" orientation="0" type="embed://import/vehicles/starter_relay.elmt" uuid="{75fee2b0-c842-4512-83e8-c603e9b63eac}">
+            <element y="490" x="728" prefix="" freezeLabel="false" z="10" orientation="0" type="embed://import/vehicles/starter_relay.elmt" uuid="{75fee2b0-c842-4512-83e8-c603e9b63eac}">
                 <terminals>
                     <terminal y="-15.8" x="-12.4" id="1" orientation="0"/>
                     <terminal y="-13.1" x="24.1" id="2" orientation="1"/>
@@ -55,8 +50,25 @@
                     <elementInformation show="1" name="formula"></elementInformation>
                 </elementInformations>
                 <dynamic_texts>
-                    <dynamic_elmt_text keep_visual_rotation="false" y="30" text_width="-1" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" x="-26" rotation="0" Halignment="AlignLeft" Valignment="AlignTop" frame="false" text_from="UserText" uuid="{f0e18da5-5a6c-46c6-8cd0-ced26dc9fa2f}">
+                    <dynamic_elmt_text keep_visual_rotation="false" y="40" text_width="-1" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" x="0" rotation="0" Halignment="AlignLeft" Valignment="AlignTop" frame="false" text_from="UserText" uuid="{f0e18da5-5a6c-46c6-8cd0-ced26dc9fa2f}">
                         <text>RELÉ DE 
+PARTIDA</text>
+                    </dynamic_elmt_text>
+                </dynamic_texts>
+                <texts_groups/>
+            </element>
+            <element y="600" x="716" prefix="" freezeLabel="false" z="10" orientation="0" type="embed://import/vehicles/starter_motor.elmt" uuid="{081fd232-19d2-42b0-aca3-f4ad71ce7ee0}">
+                <terminals>
+                    <terminal y="-27.6002" x="-3.2474e-15" id="5" orientation="0"/>
+                    <terminal y="27.3512" x="-3.2474e-15" id="6" orientation="2"/>
+                </terminals>
+                <inputs/>
+                <elementInformations>
+                    <elementInformation show="1" name="formula"></elementInformation>
+                </elementInformations>
+                <dynamic_texts>
+                    <dynamic_elmt_text keep_visual_rotation="false" y="-20" text_width="-1" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" x="20" rotation="0" Halignment="AlignLeft" Valignment="AlignTop" frame="false" text_from="UserText" uuid="{98690202-02ce-497f-a314-2ecc8b8d399a}">
+                        <text>MOTOR DE
 PARTIDA</text>
                     </dynamic_elmt_text>
                 </dynamic_texts>
@@ -64,8 +76,8 @@ PARTIDA</text>
             </element>
             <element y="560" x="940" prefix="" freezeLabel="false" z="10" orientation="0" type="embed://import/batteries/automotive_battery.elmt" uuid="{a1471c98-222f-4d90-9647-9544e4682273}">
                 <terminals>
-                    <terminal y="-18.5" x="-18.5" id="5" orientation="0"/>
-                    <terminal y="-18.5" x="18.5" id="6" orientation="0"/>
+                    <terminal y="-18.5" x="-18.5" id="7" orientation="0"/>
+                    <terminal y="-18.5" x="18.5" id="8" orientation="0"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -84,9 +96,12 @@ PARTIDA</text>
             <conductor tension_protocol="" horizontal-alignment="AlignBottom" function="" x="0" dash-size="2" color="#ff0000" num="VE" vertirotatetext="270" onetextperfolio="0" formula="VE" element2="{75fee2b0-c842-4512-83e8-c603e9b63eac}" cable="" color2="#000000" numsize="7" text_color="#000000" bicolor="false" terminal2="{9baeca1e-7919-497c-9011-f6bcb928c592}" horizrotatetext="0" freezeLabel="false" type="multi" bus="" conductor_color="" y="0" condsize="1.6" displaytext="1" terminal1="{5c47ec33-e27d-4d56-947b-f65fcaf59706}" element1="{a1471c98-222f-4d90-9647-9544e4682273}" conductor_section="" vertical-alignment="AlignRight">
                 <segment length="-7.5" orientation="vertical"/>
                 <segment length="-90" orientation="vertical"/>
-                <segment length="-200.9" orientation="horizontal"/>
+                <segment length="-242.9" orientation="horizontal"/>
                 <segment length="20" orientation="vertical"/>
                 <segment length="10.2" orientation="vertical"/>
+                <sequentialNumbers/>
+            </conductor>
+            <conductor tension_protocol="" horizontal-alignment="AlignBottom" function="" x="0" dash-size="2" num="P" vertirotatetext="270" onetextperfolio="0" formula="P" element2="{081fd232-19d2-42b0-aca3-f4ad71ce7ee0}" cable="" color2="#000000" numsize="7" text_color="#000000" bicolor="false" horizrotatetext="0" terminal2="{11f16854-d704-4d59-be30-7d3b7288b67e}" freezeLabel="false" type="multi" bus="" conductor_color="" y="0" condsize="1.6" displaytext="1" terminal1="{fd279612-c60d-4138-8a64-598fc4ace9e3}" element1="{75fee2b0-c842-4512-83e8-c603e9b63eac}" conductor_section="" vertical-alignment="AlignRight">
                 <sequentialNumbers/>
             </conductor>
             <conductor tension_protocol="" horizontal-alignment="AlignBottom" function="" x="0" dash-size="2" num="" vertirotatetext="270" onetextperfolio="0" formula="" cable="" color2="#000000" numsize="7" text_color="#000000" bicolor="false" horizrotatetext="0" terminal2="0" freezeLabel="false" type="multi" bus="" conductor_color="" y="0" condsize="1.6" displaytext="1" terminal1="{08f45069-388c-47ad-beb8-455ffb46c9c1}" element1="{a1471c98-222f-4d90-9647-9544e4682273}" conductor_section="" vertical-alignment="AlignRight">
@@ -156,6 +171,32 @@ PARTIDA</text>
                             <terminal y="-19.8" x="-12.4" orientation="n" name="" uuid="{9baeca1e-7919-497c-9011-f6bcb928c592}" type="Generic"/>
                             <terminal y="20.1" x="-12.4" orientation="s" name="" uuid="{fd279612-c60d-4138-8a64-598fc4ace9e3}" type="Generic"/>
                             <terminal y="13.1" x="28.1" orientation="e" name="" uuid="{28b5b4fa-fb6c-4c93-b1bc-d2b6f257a772}" type="Generic"/>
+                        </description>
+                    </definition>
+                </element>
+                <element name="starter_motor.elmt">
+                    <definition hotspot_x="15" link_type="simple" version="0.100.0" width="30" hotspot_y="40" height="80" type="element">
+                        <uuid uuid="{689002b0-f990-44bc-963e-c4317f4a2196}"/>
+                        <names>
+                            <name lang="pt">Motor de Partida</name>
+                            <name lang="en">Starter Motor</name>
+                        </names>
+                        <elementInformations/>
+                        <informations></informations>
+                        <description>
+                            <line y1="26.4535" end1="none" length1="1.5" end2="none" length2="1.5" x1="-9.75" x2="-9.75" y2="8.487" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+                            <ellipse y="-12.5152" x="-13" width="26" style="line-style:normal;line-weight:normal;filling:none;color:black" height="24.7813" antialias="false"/>
+                            <line y1="26.4535" end1="none" length1="1.5" end2="none" length2="1.5" x1="-9.75" x2="9.75" y2="26.4535" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+                            <line y1="-8.736" end1="none" length1="1.5" end2="none" length2="1.5" x1="-9.75" x2="-9.75" y2="-26.7025" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+                            <line y1="8.487" end1="none" length1="1.5" end2="none" length2="1.5" x1="9.75" x2="9.75" y2="26.4535" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+                            <line y1="-26.7025" end1="none" length1="1.5" end2="none" length2="1.5" x1="-9.75" x2="9.75" y2="-26.7025" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+                            <line y1="-26.7025" end1="none" length1="1.5" end2="none" length2="1.5" x1="9.75" x2="9.75" y2="-8.736" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+                            <dynamic_text keep_visual_rotation="false" y="6.0708" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="19.5" rotation="0" Halignment="AlignLeft" Valignment="AlignTop" z="7" frame="false" text_from="UserText" uuid="{bad0e020-09c5-45e2-a061-b0415ba6aa3d}">
+                                <text>_</text>
+                            </dynamic_text>
+                            <text color="#000000" text="M" y="7.5" font="MS Shell Dlg 2,15,-1,5,75,0,0,0,0,0,Bold" x="-9" rotation="0"/>
+                            <terminal y="31.3512" x="-3.2474e-15" orientation="s" name="" uuid="{7513bf8a-259d-410f-bcc1-f38825cf2cd8}" type="Generic"/>
+                            <terminal y="-31.6002" x="-3.2474e-15" orientation="n" name="" uuid="{11f16854-d704-4d59-be30-7d3b7288b67e}" type="Generic"/>
                         </description>
                     </definition>
                 </element>
