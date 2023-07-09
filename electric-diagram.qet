@@ -5,7 +5,7 @@
         <property name="saveddate-us" show="1">2023-07-09</property>
         <property name="savedfilepath" show="1">D:/Projects/GN 125 Motorcycle/electric-diagram.qet</property>
         <property name="saveddate" show="1">7/9/2023</property>
-        <property name="savedtime" show="1">17:34</property>
+        <property name="savedtime" show="1">17:49</property>
     </properties>
     <newdiagrams>
         <border displaycols="true" rows="8" rowsize="80" displayrows="true" colsize="60" cols="17"/>
@@ -157,7 +157,7 @@ TRASEIRA DIREITA</text>
                 <dynamic_texts/>
                 <texts_groups/>
             </element>
-            <element x="320" y="118" prefix="" uuid="{c67fafe3-7270-4a40-b773-7060a3fdbd46}" type="embed://import/vehicles/gn_125/electric_harnesses/seven_way_connector.elmt" orientation="0" freezeLabel="false" z="10">
+            <element x="318" y="152" prefix="" uuid="{c67fafe3-7270-4a40-b773-7060a3fdbd46}" type="embed://import/vehicles/gn_125/electric_harnesses/seven_way_connector.elmt" orientation="0" freezeLabel="false" z="10">
                 <terminals>
                     <terminal x="-46.8537" y="-11.4512" orientation="0" id="17"/>
                     <terminal x="-32.1475" y="-11.4512" orientation="0" id="18"/>
@@ -959,7 +959,7 @@ PARTIDA</text>
                 <dynamic_texts/>
                 <texts_groups/>
             </element>
-            <element x="322" y="252" prefix="X" uuid="{3242ce1a-4bb3-4e65-8aeb-51731f336e58}" type="embed://import/10_electric/10_allpole/130_terminals_terminal_strips/borne_2.elmt" orientation="3" freezeLabel="false" z="10">
+            <element x="270" y="252" prefix="X" uuid="{3242ce1a-4bb3-4e65-8aeb-51731f336e58}" type="embed://import/10_electric/10_allpole/130_terminals_terminal_strips/borne_2.elmt" orientation="3" freezeLabel="false" z="10">
                 <terminals>
                     <terminal x="0" y="-6" orientation="0" id="171"/>
                     <terminal x="6" y="0" orientation="1" id="172"/>
@@ -1002,7 +1002,7 @@ PARTIDA</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element x="276" y="412" prefix="X" uuid="{7ae5907c-93bf-4ad7-8f6b-4477399b5411}" type="embed://import/10_electric/10_allpole/130_terminals_terminal_strips/borne_2.elmt" orientation="3" freezeLabel="false" z="10">
+            <element x="286" y="412" prefix="X" uuid="{7ae5907c-93bf-4ad7-8f6b-4477399b5411}" type="embed://import/10_electric/10_allpole/130_terminals_terminal_strips/borne_2.elmt" orientation="3" freezeLabel="false" z="10">
                 <terminals>
                     <terminal x="0" y="-6" orientation="0" id="177"/>
                     <terminal x="6" y="0" orientation="1" id="178"/>
@@ -1068,6 +1068,43 @@ PARTIDA</text>
                         <info_name>label</info_name>
                     </dynamic_elmt_text>
                 </dynamic_texts>
+                <texts_groups/>
+            </element>
+            <element x="273" y="82" prefix="" uuid="{3606cee5-a8dd-43dd-85d4-918f98d64616}" type="embed://import/vehicles/turn_signal_symbol.elmt" orientation="0" freezeLabel="false" z="10">
+                <terminals/>
+                <inputs/>
+                <elementInformations>
+                    <elementInformation name="formula" show="1"></elementInformation>
+                </elementInformations>
+                <dynamic_texts/>
+                <texts_groups/>
+            </element>
+            <element x="278" y="100" prefix="" uuid="{e864a067-63c8-407d-841c-5a79e7af3345}" type="embed://import/lights/small_simple_filament_lamp.elmt" orientation="0" freezeLabel="false" z="10">
+                <terminals>
+                    <terminal x="-6.35373" y="7.2606" orientation="2" id="187"/>
+                    <terminal x="6.4346" y="7.2822" orientation="2" id="188"/>
+                </terminals>
+                <inputs/>
+                <elementInformations>
+                    <elementInformation name="formula" show="1"></elementInformation>
+                </elementInformations>
+                <dynamic_texts>
+                    <dynamic_elmt_text x="7" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="-7" uuid="{01838a67-6021-43ab-994f-f6e75e83e4b7}" rotation="0" frame="false" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop">
+                        <text></text>
+                    </dynamic_elmt_text>
+                </dynamic_texts>
+                <texts_groups/>
+            </element>
+            <element x="284" y="82" prefix="" uuid="{cb9a1dba-8b10-4dd4-8af9-7bb34303ace0}" type="embed://import/vehicles/turn_signal_symbol.elmt" orientation="2" freezeLabel="false" z="10">
+                <terminals/>
+                <inputs/>
+                <elementInformations>
+                    <elementInformation name="comment" show="1"></elementInformation>
+                    <elementInformation name="location" show="1"></elementInformation>
+                    <elementInformation name="formula" show="1"></elementInformation>
+                    <elementInformation name="label" show="1"></elementInformation>
+                </elementInformations>
+                <dynamic_texts/>
                 <texts_groups/>
             </element>
         </elements>
@@ -1348,6 +1385,9 @@ PARTIDA</text>
             <conductor numsize="5" type="multi" userx="1072" x="0" displaytext="1" element2="{76d130d8-ef5e-4c0b-b5eb-f291b95421c7}" usery="204" num="P/B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{342172fb-5509-4290-8319-5fe8fa3992bc}" text_color="#000000" style="line-style: dashed;" element1="{a030d993-ab0d-48f0-b487-f1ef1039507e}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#ffffff" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="true" terminal2="{589bf488-4e95-4415-945f-b73d3078b980}">
                 <sequentialNumbers/>
             </conductor>
+            <conductor numsize="5" type="multi" userx="272" x="0" displaytext="1" element2="{c67fafe3-7270-4a40-b773-7060a3fdbd46}" usery="206" num="P" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="178" text_color="#000000" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" tension_protocol="" formula="" color2="#000000" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="false" terminal2="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}">
+                <sequentialNumbers/>
+            </conductor>
             <conductor numsize="5" type="multi" userx="148" x="0" displaytext="1" element2="{5bcc3005-2ac6-4073-9293-b9c8876d3075}" usery="204" num="P/B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{342172fb-5509-4290-8319-5fe8fa3992bc}" text_color="#000000" style="line-style: dashed;" element1="{7fb586be-747e-4c2f-b6f2-3862831a7cd5}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#ffffff" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="true" terminal2="{f44986c8-6de8-40f1-a9ef-1569f1dcf423}">
                 <sequentialNumbers/>
             </conductor>
@@ -1355,6 +1395,9 @@ PARTIDA</text>
                 <sequentialNumbers/>
             </conductor>
             <conductor numsize="5" type="multi" userx="640" x="0" displaytext="1" usery="182" num="VC" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}" text_color="#000000" element1="{6867b8bd-aa26-4eaa-b106-e57409088d10}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#bbe380" bicolor="false" terminal2="174">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor numsize="5" type="multi" userx="272" x="0" displaytext="1" element2="{e864a067-63c8-407d-841c-5a79e7af3345}" usery="134" num="P" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{342172fb-5509-4290-8319-5fe8fa3992bc}" text_color="#000000" element1="{c67fafe3-7270-4a40-b773-7060a3fdbd46}" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="false" terminal2="{589bf488-4e95-4415-945f-b73d3078b980}">
                 <sequentialNumbers/>
             </conductor>
             <conductor numsize="5" type="multi" userx="346" x="0" displaytext="1" element2="{cf1d5a9a-cccd-4d60-a772-703c11ffe8a4}" usery="332" num="VC" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="175" text_color="#000000" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#bbe380" bicolor="false" terminal2="{0982be6d-8c64-4284-bd50-6589f6925247}">
@@ -1374,6 +1417,9 @@ PARTIDA</text>
             <conductor numsize="5" type="multi" userx="318" x="0" displaytext="1" usery="342" num="P" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="179" text_color="#000000" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" tension_protocol="" formula="" color2="#000000" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="false" terminal2="182">
                 <sequentialNumbers/>
             </conductor>
+            <conductor numsize="5" type="multi" userx="258" x="0" displaytext="1" element2="{e864a067-63c8-407d-841c-5a79e7af3345}" usery="136" num="VC" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{30c4c1e0-141a-4be7-a6be-9897fc98ceee}" text_color="#000000" element1="{c67fafe3-7270-4a40-b773-7060a3fdbd46}" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#bbe380" bicolor="false" terminal2="{f44986c8-6de8-40f1-a9ef-1569f1dcf423}">
+                <sequentialNumbers/>
+            </conductor>
             <conductor numsize="5" type="multi" x="34" displaytext="1" element2="{7fb586be-747e-4c2f-b6f2-3862831a7cd5}" num="P/B" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="75" text_color="#000000" style="line-style: dashed;" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" tension_protocol="" formula="P/B" color2="#ffffff" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="true" terminal2="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}">
                 <sequentialNumbers/>
             </conductor>
@@ -1381,6 +1427,9 @@ PARTIDA</text>
                 <sequentialNumbers/>
             </conductor>
             <conductor numsize="5" type="multi" userx="154" x="0" displaytext="1" element2="{5250a3c4-5694-42a7-aed0-e6daa5dc4161}" usery="342" num="P" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="{342172fb-5509-4290-8319-5fe8fa3992bc}" text_color="#000000" element1="{94fc8ffa-68db-44d1-9c32-6d58cd28b454}" cable="" y="56" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" bicolor="false" terminal2="{f44986c8-6de8-40f1-a9ef-1569f1dcf423}">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor numsize="5" type="multi" userx="258" x="0" displaytext="1" element2="{c67fafe3-7270-4a40-b773-7060a3fdbd46}" usery="208" num="VC" onetextperfolio="0" function="" vertical-alignment="AlignRight" dash-size="2" terminal1="172" text_color="#000000" cable="" y="0" freezeLabel="false" condsize="1.6" vertirotatetext="270" bus="" horizrotatetext="0" formula="" color2="#000000" tension_protocol="" conductor_color="" horizontal-alignment="AlignBottom" conductor_section="" color="#bbe380" bicolor="false" terminal2="{319d3e67-9b2b-4940-a26b-52595e71b13d}">
                 <sequentialNumbers/>
             </conductor>
         </conductors>
@@ -1938,6 +1987,20 @@ PARTIDA</text>
                         </description>
                     </definition>
                 </element>
+                <element name="turn_signal_symbol.elmt">
+                    <definition hotspot_y="10" link_type="simple" width="20" hotspot_x="11" type="element" version="0.100.0" height="20">
+                        <uuid uuid="{70efcfa8-17dc-4d3b-9924-c8153957e72f}"/>
+                        <names>
+                            <name lang="en">Turn Signal Symbol</name>
+                            <name lang="pt">Símbolo Seta</name>
+                        </names>
+                        <elementInformations/>
+                        <informations/>
+                        <description>
+                            <polygon y6="-1.59305" x4="-2.2367" x3="-2.2367" y1="-3.71705" y5="1.59301" y8="-1.59305" x7="-2.2367" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-2.2367" x8="-2.2367" y7="-1.59305" x6="4.3101" antialias="false" y4="1.59301" x2="-5.5101" y2="-4.5e-05" y3="3.71704" x5="4.3101"/>
+                        </description>
+                    </definition>
+                </element>
             </category>
             <category name="batteries">
                 <names>
@@ -2267,6 +2330,51 @@ License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
                             </dynamic_text>
                             <terminal x="9.4" name="" y="18.37" uuid="{589bf488-4e95-4415-945f-b73d3078b980}" type="Generic" orientation="s"/>
                             <terminal x="-9.29" name="" y="18.37" uuid="{f44986c8-6de8-40f1-a9ef-1569f1dcf423}" type="Generic" orientation="s"/>
+                        </description>
+                    </definition>
+                </element>
+                <element name="simple_filament_lamp - Copy.elmt">
+                    <definition hotspot_y="23" link_type="simple" width="50" hotspot_x="24" type="element" version="0.100.0" height="50">
+                        <uuid uuid="{017bec1b-1439-4f0c-a8a3-2754f2d5392f}"/>
+                        <names>
+                            <name lang="en">Simple Filament Lamp Copy</name>
+                            <name lang="pt">Lampada de Filamento Simples Copia</name>
+                        </names>
+                        <elementInformations/>
+                        <informations/>
+                        <description>
+                            <arc x="-1.44648" angle="203.875" antialias="true" y="-5.27128" width="13.398" style="line-style:normal;line-weight:normal;filling:none;color:black" height="18.3107" start="359.563"/>
+                            <arc x="-1.53358" angle="79.6875" antialias="true" y="-4.16867" width="3.68471" style="line-style:normal;line-weight:normal;filling:none;color:black" height="13.3629" start="231.688"/>
+                            <line antialias="false" y1="4.55548" end2="none" x2="11.9515" y2="13.6498" x1="11.9515" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                            <arc x="-11.3089" angle="202.688" antialias="true" y="-5.27128" width="13.398" style="line-style:normal;line-weight:normal;filling:none;color:black" height="18.3107" start="336.375"/>
+                            <line antialias="false" y1="4.31134" end2="none" x2="-11.3151" y2="13.6498" x1="-11.3151" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                            <arc x="-21.4194" angle="358.313" antialias="true" y="-16.8681" width="43.4194" style="line-style:normal;line-weight:normal;filling:none;color:black" height="36.6215" start="271.125"/>
+                            <terminal x="11.9515" name="" y="18.5327" uuid="{589bf488-4e95-4415-945f-b73d3078b980}" type="Generic" orientation="s"/>
+                            <terminal x="-11.3" name="" y="18.5" uuid="{f44986c8-6de8-40f1-a9ef-1569f1dcf423}" type="Generic" orientation="s"/>
+                        </description>
+                    </definition>
+                </element>
+                <element name="small_simple_filament_lamp.elmt">
+                    <definition hotspot_y="14" link_type="simple" width="30" hotspot_x="15" type="element" version="0.100.0" height="30">
+                        <uuid uuid="{d00e9864-2546-4b71-9312-fa450f472364}"/>
+                        <names>
+                            <name lang="en">Small Simple Filament Lamp</name>
+                            <name lang="pt">Lampada de Filamento Simples Pequena</name>
+                        </names>
+                        <elementInformations/>
+                        <informations/>
+                        <description>
+                            <arc x="-0.934294" angle="203.875" antialias="true" y="-4.433" width="7.3689" style="line-style:normal;line-weight:normal;filling:none;color:black" height="12.0886" start="359.563"/>
+                            <arc x="-0.982199" angle="79.6875" antialias="true" y="-3.70507" width="2.02659" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8.82209" start="231.688"/>
+                            <line antialias="false" y1="2.05456" end2="none" x2="6.4346" y2="8.05856" x1="6.4346" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                            <arc x="-6.35862" angle="202.688" antialias="true" y="-4.433" width="7.3689" style="line-style:normal;line-weight:normal;filling:none;color:black" height="12.0886" start="336.375"/>
+                            <line antialias="false" y1="1.89338" end2="none" x2="-6.36203" y2="8.05856" x1="-6.36203" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+                            <arc x="-11.9194" angle="358.313" antialias="true" y="-12.0891" width="23.8807" style="line-style:normal;line-weight:normal;filling:none;color:black" height="24.1773" start="271.125"/>
+                            <dynamic_text x="7" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="-7" uuid="{556d241a-0c16-4ce1-a98d-4a1cb0e3fe6b}" rotation="0" frame="false" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop" z="7">
+                                <text>_</text>
+                            </dynamic_text>
+                            <terminal x="-6.35373" name="" y="11.2606" uuid="{f44986c8-6de8-40f1-a9ef-1569f1dcf423}" type="Generic" orientation="s"/>
+                            <terminal x="6.4346" name="" y="11.2822" uuid="{589bf488-4e95-4415-945f-b73d3078b980}" type="Generic" orientation="s"/>
                         </description>
                     </definition>
                 </element>
