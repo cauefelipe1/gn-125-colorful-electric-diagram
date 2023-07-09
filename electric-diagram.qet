@@ -5,7 +5,7 @@
         <property name="saveddate-us" show="1">2023-07-09</property>
         <property name="savedfilepath" show="1">D:/Projects/GN 125 Motorcycle/electric-diagram.qet</property>
         <property name="saveddate" show="1">7/9/2023</property>
-        <property name="savedtime" show="1">16:57</property>
+        <property name="savedtime" show="1">16:58</property>
     </properties>
     <newdiagrams>
         <border displaycols="true" rows="8" rowsize="80" displayrows="true" colsize="60" cols="17"/>
@@ -94,7 +94,7 @@
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element x="578" y="80" prefix="" uuid="{a4d71e29-a827-45db-9a21-13ddc66d4fe5}" type="embed://import/vehicles/gn_125/ignitor.elmt" orientation="0" freezeLabel="false" z="10">
+            <element x="578" y="83" prefix="" uuid="{a4d71e29-a827-45db-9a21-13ddc66d4fe5}" type="embed://import/vehicles/gn_125/ignitor.elmt" orientation="0" freezeLabel="false" z="10">
                 <terminals>
                     <terminal x="-40" y="34" orientation="2" id="10"/>
                     <terminal x="-24" y="34" orientation="2" id="11"/>
@@ -107,8 +107,8 @@
                     <elementInformation name="formula" show="1"></elementInformation>
                 </elementInformations>
                 <dynamic_texts>
-                    <dynamic_elmt_text x="-7" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="-57" uuid="{7f9d2c5f-5e11-49f6-b13f-b8f65fe3dcd2}" rotation="0" frame="false" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop">
-                        <text>_</text>
+                    <dynamic_elmt_text x="-64" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="-52" uuid="{7f9d2c5f-5e11-49f6-b13f-b8f65fe3dcd2}" rotation="0" frame="true" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop">
+                        <text>MÓDULO DE IGNIÇÃO</text>
                     </dynamic_elmt_text>
                 </dynamic_texts>
                 <texts_groups/>
