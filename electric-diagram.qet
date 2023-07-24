@@ -1,11 +1,11 @@
 <project version="0.100.0" title="Diagrama_Eletrico">
     <properties>
-        <property name="savedfilepath" show="1">D:/Projects/GN 125 Motorcycle/electric-diagram.qet</property>
+        <property name="savedfilepath" show="1">/Users/ccarvalho/Projects/GN 125/eletric-diagram/electric-diagram.qet</property>
         <property name="savedfilename" show="1">electric-diagram</property>
-        <property name="saveddate-eu" show="1">10-07-2023</property>
-        <property name="saveddate-us" show="1">2023-07-10</property>
-        <property name="saveddate" show="1">7/10/2023</property>
-        <property name="savedtime" show="1">15:07</property>
+        <property name="saveddate-eu" show="1">24-07-2023</property>
+        <property name="saveddate-us" show="1">2023-07-24</property>
+        <property name="saveddate" show="1">24/07/23</property>
+        <property name="savedtime" show="1">20:09</property>
     </properties>
     <newdiagrams>
         <border rowsize="80" cols="17" displaycols="true" rows="8" displayrows="true" colsize="60"/>
